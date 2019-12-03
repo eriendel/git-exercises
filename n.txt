@@ -11,3 +11,5 @@ dsfsdf
 asdfas
 
 newline not staged
+
+simple merge
