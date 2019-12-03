@@ -9,3 +9,5 @@ safdads
 dsfsdf
 
 asdfas
+
+newline not staged
