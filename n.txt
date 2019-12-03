@@ -13,3 +13,5 @@ asdfas
 newline not staged
 
 simple merge
+
+for rebasing
